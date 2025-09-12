@@ -58,4 +58,4 @@ Q20: I predict the 9 + 3 + "cat" will return "12cat", and "cat" + 3 + 9 will ret
 
 The first adds 9 to 3, then concatenates it (12) to the string "cat".  
 
-The second cocatenates "cat" and 3 to make "cat3", then "cat3" with 9 to make "cat39".  
+The second concatenates "cat" and 3 to make "cat3", then "cat3" with 9 to make "cat39".  
