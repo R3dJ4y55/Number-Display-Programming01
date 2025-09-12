@@ -10,8 +10,8 @@ Q2: The class diagram can change for several reasons, including:
         * A creation or deletion of classes                         => Change the number of classes boxes  
 
 Q3: The object diagram can change for several reason, such as:
-        * Creation or deletion of objects
-        * A change in the relationship betweem objects
+        * Creation or deletion of objects %n
+        * A change in the relationship betweem objects %n
         * In the case that the object diagram shows the values of the fields of individuals objects, a change to the internal values would also change the object diagram
 
 ``` java
@@ -35,5 +35,5 @@ Q13: 0
 Q14: Every integer
 
 Q15: 
-    * !false
+    * !false  
     * (34 != 33) && !false
