@@ -8,7 +8,7 @@ Q2: The class diagram can change for several reasons, including:
 
         * A change to the name of the class                         => Changes the class' box to display a new name  
         * A change in the relationships between classes             => Changes the arrows that show the relationships  
-        * A creation or deletion of classes                         => Changes the number of classes boxes  
+        * A creation or deletion of classes                         => Changes the number of class boxes  
 
 Q3: The object diagram can change for several reason, such as: 
 
@@ -18,7 +18,7 @@ Q3: The object diagram can change for several reason, such as:
 
 ``` java
 // Question 4
-private Instructor tutor
+private Instructor tutor;
 ```
 
 Q6: We should look if the value of minutes is zero. 
@@ -37,6 +37,7 @@ Q13: 0
 Q14: Every integer
 
 Q15: 
+
     * !false  
     * (34 != 33) && !false
 
@@ -45,7 +46,7 @@ Q15:
 (!a && !b) || (a && b)
 ```
 ``` java
-//Q17
+//Q17 (XOR)
 !((!a && !b) || (a && b))
 ```
 
